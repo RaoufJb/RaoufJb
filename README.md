@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RaoufJb&theme=midnight-purple&hide_total_contributions=true)](https://git.io/streak-stats)
 
 
-[![GitHub Snake Light](https://raw.githubusercontent.com/sy-records/sy-records/output/github-contribution-grid-snake.svg)](https://github.com/sy-records)
+[![GitHub Snake Light](https://raw.githubusercontent.com/RaoufJb/RaoufJb/refs/heads/main/github-contribution-grid-snake.svg)]([https://github.com/sy-records](https://github.com/RaoufJb))

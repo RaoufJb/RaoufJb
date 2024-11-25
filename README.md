@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 <div align=center>
   <h2>Langs And Tools</h2>
   <h3>Programing Langs</h3>
-    <img src="https://skillicons.dev/icons?i=java,angular,typescript,laravel,vue,php,python,js,nodejs,express">
+    <img src="https://skillicons.dev/icons?i=java,angular,typescript,vue,python,js,nodejs,express,odoo">
   <h3>Databases</h3>
    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite">
   <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,arduino">
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio">
 </div>

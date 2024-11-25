@@ -9,3 +9,13 @@ You can click the Preview link to take a look at your changes.
 --->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RaoufJb&theme=midnight-purple&hide_total_contributions=true)
 ![GitHub Snake Light](https://raw.githubusercontent.com/RaoufJb/RaoufJb/refs/heads/main/github-contribution-grid-snake.svg)
+
+<div align=center>
+  <h2>Langs And Tools</h2>
+  <h3>Programing Langs</h3>
+    <img src="https://skillicons.dev/icons?i=java,angular,typescript,laravel,vue,php,python,js,nodejs,express">
+  <h3>Databases</h3>
+   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite">
+  <h3>Tools</h3>
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,arduino">
+</div>
